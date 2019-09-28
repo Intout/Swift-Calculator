@@ -1,10 +1,7 @@
-//
+
 //  CalculatorTests.swift
 //  CalculatorTests
-//
-//  Created by Mert Tecimen on 20.09.2019.
-//  Copyright © 2019 Mert Tecimen. All rights reserved.
-//
+
 
 import XCTest
 @testable import Calculator
